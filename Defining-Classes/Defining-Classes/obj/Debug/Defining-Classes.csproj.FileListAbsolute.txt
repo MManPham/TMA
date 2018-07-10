@@ -1,0 +1,7 @@
+E:\TMA\Defining-Classes\Defining-Classes\bin\Debug\Defining-Classes.exe.config
+E:\TMA\Defining-Classes\Defining-Classes\bin\Debug\Defining-Classes.exe
+E:\TMA\Defining-Classes\Defining-Classes\bin\Debug\Defining-Classes.pdb
+E:\TMA\Defining-Classes\Defining-Classes\obj\Debug\Defining-Classes.csprojResolveAssemblyReference.cache
+E:\TMA\Defining-Classes\Defining-Classes\obj\Debug\Defining-Classes.csproj.CoreCompileInputs.cache
+E:\TMA\Defining-Classes\Defining-Classes\obj\Debug\Defining-Classes.exe
+E:\TMA\Defining-Classes\Defining-Classes\obj\Debug\Defining-Classes.pdb
