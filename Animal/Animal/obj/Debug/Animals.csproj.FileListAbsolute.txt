@@ -1,0 +1,7 @@
+E:\TMA\Animal\Animal\bin\Debug\Animal.exe.config
+E:\TMA\Animal\Animal\bin\Debug\Animal.exe
+E:\TMA\Animal\Animal\bin\Debug\Animal.pdb
+E:\TMA\Animal\Animal\obj\Debug\Animals.csprojResolveAssemblyReference.cache
+E:\TMA\Animal\Animal\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+E:\TMA\Animal\Animal\obj\Debug\Animal.exe
+E:\TMA\Animal\Animal\obj\Debug\Animal.pdb
